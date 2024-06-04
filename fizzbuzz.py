@@ -1,1 +1,2 @@
-print("it works")
+for i in range(1, 101):              # 1부터 100까지 100번 반복
+    print(i)                         # 아무것도 해당되지 않을 때 숫자 출력
