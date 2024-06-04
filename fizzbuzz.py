@@ -1,3 +1,4 @@
+#fizzbuzz 구현
 for i in range(1, 101):      # 1부터 100까지 100번 반복
     if i % 15 == 0:          # 15의 배수(3과 5의 공배수)일 때
         print('FizzBuzz')    # FizzBuzz 출력
